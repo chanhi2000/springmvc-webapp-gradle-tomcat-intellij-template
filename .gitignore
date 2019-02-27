@@ -24,9 +24,11 @@ hs_err_pid*
 
 # intellij-idea
 .idea/
+build/
 
 # gradle
 .gradle/
+gradle/
 
 # MacOS
 .DS_Store
